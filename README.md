@@ -43,7 +43,7 @@ In the third deliverable I was tasked with trying to optimize the model I had al
 
 * What steps did you take to try and increase model performance?
 
-![Screenshot 2023-04-11 154503](https://user-images.githubusercontent.com/45715246/231272118-d52e768f-c813-4a5d-a204-0f6d095d6ac5.png)
+![Screenshot 2023-04-11 154718](https://user-images.githubusercontent.com/45715246/231272582-471ed1d5-5f70-45b0-8134-71660dbadfbb.png)
 ![Screenshot 2023-04-11 154539](https://user-images.githubusercontent.com/45715246/231272239-41e29a22-3344-4424-854c-56f459ee20f2.png)
 ![Screenshot 2023-04-11 154612](https://user-images.githubusercontent.com/45715246/231272369-3f08f17b-521d-4a29-ae69-78d94d2f0b86.png)
 
