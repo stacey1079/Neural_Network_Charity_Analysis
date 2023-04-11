@@ -19,6 +19,8 @@ In the third deliverable I was tasked with trying to optimize the model I had al
 
   The feature columns were 'STATUS', 'ASK_AMT', 'APPLICATION_TYPE' which was broken down into the differents types of applications, 'INCOME_AMT' which was broken down into dollar amount ranges, 'SPECIAL_CONSIDERATIONS_N', and 'SPECIAL CONSIDERATIONS_Y'.
   
+  ![Screenshot 2023-04-10 121253](https://user-images.githubusercontent.com/45715246/230943547-4882445a-d6ab-41fc-9b66-0f293cde7493.png)
+  
 
 * What variable(s) are neither targets nor features, and should be removed from the input data? 
 
@@ -37,9 +39,6 @@ In the third deliverable I was tasked with trying to optimize the model I had al
 
 ## Summary
 
-### Screenshot variables chosen
-
-![Screenshot 2023-04-10 121253](https://user-images.githubusercontent.com/45715246/230943547-4882445a-d6ab-41fc-9b66-0f293cde7493.png)
 
 ## Deliverable 2
 ![Screenshot 2023-04-10 121657](https://user-images.githubusercontent.com/45715246/230944230-235ebabd-154e-44c5-be46-135d49d199e6.png)
