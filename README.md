@@ -32,18 +32,26 @@ In the third deliverable I was tasked with trying to optimize the model I had al
 
 * How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
+![Screenshot 2023-04-11 154321](https://user-images.githubusercontent.com/45715246/231271765-f2b1fc26-2615-4a96-abb6-62fc14d977d6.png)
+
+
 * Were you able to achieve the target model performance?
 
+
+
+![Screenshot 2023-04-10 123809](https://user-images.githubusercontent.com/45715246/230947913-b0b82161-120d-4e7f-8aaa-6441e78f0761.png)
+
 * What steps did you take to try and increase model performance?
+
+![Screenshot 2023-04-11 154503](https://user-images.githubusercontent.com/45715246/231272118-d52e768f-c813-4a5d-a204-0f6d095d6ac5.png)
+![Screenshot 2023-04-11 154539](https://user-images.githubusercontent.com/45715246/231272239-41e29a22-3344-4424-854c-56f459ee20f2.png)
+![Screenshot 2023-04-11 154612](https://user-images.githubusercontent.com/45715246/231272369-3f08f17b-521d-4a29-ae69-78d94d2f0b86.png)
+
 
 
 ## Summary
 
 
-## Deliverable 2
-![Screenshot 2023-04-10 121657](https://user-images.githubusercontent.com/45715246/230944230-235ebabd-154e-44c5-be46-135d49d199e6.png)
 
-### Model accuracy and loss
-![Screenshot 2023-04-10 123809](https://user-images.githubusercontent.com/45715246/230947913-b0b82161-120d-4e7f-8aaa-6441e78f0761.png)
 
 
