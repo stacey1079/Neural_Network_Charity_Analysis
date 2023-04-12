@@ -24,7 +24,7 @@ In the third deliverable I was tasked with trying to optimize the model I had al
 
 * What variable(s) are neither targets nor features, and should be removed from the input data? 
 
-  AFFILIATION USE_CASE   ORGANIZATION CLASSIFICATION
+  The variables that I removed which were not necessary were 'AFFILIATION', 'USE_CASE', 'ORGANIZATION', and 'CLASSIFICATION'.
   
   
 ### Compiling, Training, and Evaluating the Model
